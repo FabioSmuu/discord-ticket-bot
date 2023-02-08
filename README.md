@@ -1,5 +1,5 @@
 # Discord Bot para suporte ao usuário.
-Este repositório tem como intuito, demonstrar uma criação simples de um bot para Discord, capaz de dar suporte a dúvidas e problemas que usuários possam ter em servidores.
+Este repositório tem como intuito, demonstrar uma criação simples de um bot para Discord, para suporte e atendimento ao usuário atraves de tickets.
 
 <br>
 <br>
@@ -38,4 +38,4 @@ O primeiro passo é usar o comando `npm install` !
 <br>
 <br>
 
-![N|Solid](https://github.com/FabioSmuu/FabioSmuu/raw/main/img/footer.png)
+[![N|Solid](https://github.com/FabioSmuu/FabioSmuu/raw/main/img/footer.png)](https://app.picpay.com/user/smuu)
