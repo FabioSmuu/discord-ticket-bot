@@ -32,10 +32,4 @@ O primeiro passo é usar o comando `npm install` !
 
 <br>
 
-### :mailbox_with_mail: Contato
-#### E-mail: fabio.inc.contato@gmail.com
-
-<br>
-<br>
-
-[![N|Solid](https://github.com/FabioSmuu/FabioSmuu/raw/main/img/footer.png)](https://app.picpay.com/user/smuu)
+**Obrigado pela sua atenção!**
